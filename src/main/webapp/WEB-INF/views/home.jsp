@@ -8,7 +8,8 @@
 <h1>
 	Hello world!  
 </h1>
+<h4 >   这是一个测试页面</h4>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is  </P>
 </body>
 </html>
