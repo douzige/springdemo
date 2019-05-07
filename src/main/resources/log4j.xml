@@ -9,6 +9,9 @@
 			<param name="ConversionPattern" value="%-5p: %c - %m%n" />
 		</layout>
 	</appender>
+
+
+
 	
 	<!-- Application Loggers -->
 	<logger name="chen.firstSpring.demo">
